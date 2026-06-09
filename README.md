@@ -26,8 +26,3 @@ Subir también este README.md.
 Ir a Settings > Pages.
 En Build and deployment, seleccionar la rama principal.
 Guardar y abrir la URL generada por GitHub Pages.
-Archivos
-index.html: prototipo interactivo completo.
-README.md: explicación del ejercicio y guía de publicación.
-Nota
-El prototipo está hecho en HTML, CSS y JavaScript puro. No requiere instalación de dependencias ni conexión a internet para funcionar.
